@@ -1,0 +1,47 @@
+# Eclipse Protocol License Agreement (2025)
+
+Copyright © 2025 Vau & Eclipse Protocol Team
+
+By using, downloading, or distributing any part of Eclipse Protocol, you agree to the following terms:
+
+1. Ownership
+
+All assets, code, scripts, designs, and bundles in Eclipse Protocol are the exclusive property of Vau and the Eclipse Protocol Team. No part may be used for commercial projects without written permission.
+
+2. Redistribution
+
+You may not sell, rent, or license the game or its assets.
+
+You may share the WebGL build for personal or testing purposes only.
+
+Modifications for personal use are allowed, but redistribution of modified versions requires prior approval.
+
+3. Use of Assets & Bundles
+
+Custom bundles, characters, and skins are part of Eclipse Protocol and cannot be reused outside the game without explicit permission.
+
+You may integrate your own assets for private use, but distributing them with Eclipse Protocol requires authorization.
+
+4. Anti-Cheat & Tamper Protection
+
+Any attempt to bypass, disable, or manipulate the anti-cheat system is strictly prohibited.
+
+Violations may result in legal action and permanent bans from Eclipse Protocol online features.
+
+5. Liability
+
+Eclipse Protocol is provided as-is.
+
+The authors are not responsible for any loss, damage, or issues caused by using the game or its builds.
+
+6. Termination
+
+This license is effective until revoked by the copyright holders.
+
+Breach of any terms will result in immediate termination of your rights to use Eclipse Protocol.
+
+7. Governing Law
+
+This license is governed by the laws of India.
+
+Disputes will be settled under the jurisdiction of Indian courts.
