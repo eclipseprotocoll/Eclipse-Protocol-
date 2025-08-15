@@ -1,0 +1,48 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ===================================== #
+# Auto-generated VS/IDE files            #
+# ===================================== #
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ===================================== #
+# OS Generated Files                     #
+# ===================================== #
+.DS_Store
+Thumbs.db
+
+# ===================================== #
+# Optional: Crashlytics / Analytics     #
+# ===================================== #
+/Assets/Plugins/Editor/JetBrains*
+
+# ===================================== #
+# Build outputs                          #
+# ===================================== #
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.app
+*.exe
+*.unitypackage
