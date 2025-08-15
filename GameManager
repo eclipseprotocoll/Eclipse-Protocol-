@@ -1,0 +1,42 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+namespace EclipseProtocol
+{
+    public class GameManager : MonoBehaviour
+    {
+        public static GameManager instance;
+        public Transform[] spawnPoints;
+        public GameObject playerPrefab;
+
+        void Awake()
+        {
+            if (instance != null && instance != this)
+            {
+                Destroy(gameObject);
+            }
+            else
+            {
+                instance = this;
+            }
+        }
+
+        void Start()
+        {
+            SpawnPlayer();
+        }
+
+        public void SpawnPlayer()
+        {
+            if (playerPrefab == null || spawnPoints.Length == 0) return;
+
+            int spawnIndex = Random.Range(0, spawnPoints.Length);
+            Instantiate(playerPrefab, spawnPoints[spawnIndex].position, Quaternion.identity);
+        }
+
+        public void RestartGame()
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+    }
+}
